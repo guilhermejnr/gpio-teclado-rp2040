@@ -9,6 +9,7 @@ Este repositório contém o código desenvolvido durante o trabalho em grupo no 
 - **José Guilherme Marques**: Responsável revisar o código, aprovar os pull requests e criação do Readme.
 - **Otiliano Junior**: Responsável pela criação do código C e Diagrama Json
 - **Lucas Fialho Xavier**: Responsável por fazer o vídeo de ensaio.
+- **Bruno Schumacher**: Responsável por implementar testes.
 
 ## Requisitos
 
