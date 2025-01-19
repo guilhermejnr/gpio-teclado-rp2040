@@ -27,8 +27,8 @@ Este repositório contém o código desenvolvido durante o trabalho em grupo no 
 
 Aqui está o link para o vídeo de ensaio:
 
-[Vídeo de Ensaio](https://link-para-o-video.com)
-
+[Vídeo de Ensaio](https://1drv.ms/v/c/187048040209a455/EeaiMoIugI5PvVHaIcv84xsBFnFsCqxsLiWrMhRwkBXPpA?e=LfOace)
+Neste vídeo é feita a explicação do código e também é mostrada a simulação.
 
 ## Como Instalar
 
