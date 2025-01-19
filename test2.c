@@ -1,10 +1,5 @@
-#include <stdio.h>
-#include "pico/stdlib.h"
+#include "main.h"
 
-// Declarações das funções que queremos testar
-void init_pins();
-char get_key();
-void perform_action(char key);
 
 void test_get_key()
 {
