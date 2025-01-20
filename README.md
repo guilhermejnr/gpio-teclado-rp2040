@@ -10,6 +10,7 @@ Este repositório contém o código desenvolvido durante o trabalho em grupo no 
 - **Otiliano Junior**: Responsável pela criação do código C e Diagrama Json
 - **Lucas Fialho Xavier**: Responsável por fazer o vídeo de ensaio.
 - **Bruno Schumacher**: Responsável por implementar testes.
+- **Caio Nunes**: Responsável por implementar testes.
 
 ## Requisitos
 
